@@ -26,6 +26,7 @@ After the exportation of the chats, all the data were together in a column. I op
 To differentiate Male from females, I went to the group and check individuals’ profiles and used conditional statements, nested IFs, to do the transformation e.g. (if [User]= “+234……” then “Male” else if, etc.).
 
 To avoid Personally Identifiable Information (PII), data anonymization was introduced to keep the privacy of the group members. The dataset showcased their phone numbers, but lines of code were written in DAX in other to change the numbers to names. (If [User]="+2349067751244" then "Raphael" else if...) Nested If function. I went through this de-identification in other to wipe the data clean of all personally identifying information.
+
 This work took me 7 days, one day was used to generate, and exported the dataset used, 5 days were used for data wrangling and research, 1 day was used for analysis, and the last day was used for visualization and documentation. The dataset used as sampling was between a certain timeframe, May to August 2022.
 
 
