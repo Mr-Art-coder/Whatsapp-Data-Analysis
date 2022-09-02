@@ -33,13 +33,27 @@ This work took me 7 days, one day was used to generate, and exported the dataset
 
 # VISUALIZATION
 
-The charts used to visualize the analysis include card, clustered bar chart, line, slicers, stacked column charts, and table
-1.	Card: Three cards were used to visualize the total number of group members, the total number of active participants and the total number of messages.
+The charts used to visualize the analysis include card, clustered bar chart, donut chart, line, slicers, table and treemap.
+1.	Card: Two cards were used to visualize the active members, and the total number of messages.
+![Cards](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Cards.JPG)
+
 2.	Clustered bar chart: This was used to visualize the Top 5 most active members of the group.
-3.	Stacked column charts: This was used to visualize number of messages per month.
-4.	Line: It showcase the trend among the days.
-5.	Table: It visualize all members with their total messages.
-6.	Slicer: Two slicers were used, one to filter by day and other to filter by month.
+![ClusteredBarChart](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Clustered%20Bar%20Chart.JPG)
+
+3.	Line: It showcase the trend among the dates.
+![Lines](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Line.JPG)
+
+4.	Table: It visualize all members with their total messages.
+![Table](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Table.JPG)
+
+5.	Slicer: Three slicers were used, one to filter by date, gender and user.
+![date](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Filters.JPG) ![gender](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Slicers.JPG) ![Users](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Slicer.JPG)
+
+6. Donut Chart: Two donut charts were used to showcase the percentage of messages by each gender and differences in topics discussed.
+![Message](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Donut%20Chart.JPG) ![Topic](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Donut.JPG)
+
+7. Treemap: This visual was used to visualize messages sent by time.
+![Treemap](https://github.com/Mr-Art-coder/Whatsapp-Data-Analysis/blob/main/Charts/Treemap.JPG)
 
 ----
 # FINDINGS
